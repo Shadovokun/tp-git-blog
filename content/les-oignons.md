@@ -9,4 +9,4 @@ title = "Les oignons dominent le monde !"
    Cependant, Emeline Dieu est un monstre !
 
 
-   http://thumbs.dreamstime.com/z/oignon-pr%C3%A9sent-quelque-chose-18209846.jpg
+   ![Les oignons](oignon.jpg)
