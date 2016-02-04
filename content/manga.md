@@ -4,9 +4,9 @@ draft = true
 title = "Les différents types de manga"
 +++
 
-# TP Git
-## Configuration
+# Les différents types de manga
+Le manga est une bande dessinée orientale qui peut se décliner en plusieurs types
 
-	git config --global user.name "Pierre Dupond"
-	git config --global user.email "pierre.dupond@univ-lille1.fr"
-	git config --global http.proxy http://cache.univ-lille1.fr:3128
+# les Hentai
+tout le monde connaît
+
