@@ -4,9 +4,9 @@ draft = true
 title = "Minecraft"
 +++
 
-# Présentation
+## Présentation
 
 Minecraft est un jeu développé par Mojang.
 
-## Les mods de la mort
+### Les mods de la mort
 * [ Scripcraft](http://scriptcraftjs.org/)
