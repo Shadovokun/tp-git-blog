@@ -5,4 +5,4 @@ title = "Les oignons dominent le monde !"
 +++
 ## Introduction sur l'oignon
 
-   Les oignons font pleurer.
+   Les oignons font pleurer mais ils vous aiment.
