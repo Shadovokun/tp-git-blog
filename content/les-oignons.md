@@ -10,4 +10,5 @@ title = "Les oignons dominent le monde !"
 
 
    ![Des oignons](/oignon.jpg)
+   ![Roi oignon](/oignon2.jpg)
 
