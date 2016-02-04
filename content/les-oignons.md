@@ -3,15 +3,13 @@ date = "2016-02-04T08:45:00+01:00"
 draft = true
 title = "Les oignons dominent le monde !"
 +++
-## Introduction sur l'oignon
+## Introduction sur les oignons
+
 
    Les oignons font pleurer mais ils vous aiment.
-   Cependant, Louis-Arthur Collot est un monstre !
+   Cependant, Louis-Arthur est un monstre !
 
 
-   ![Les oignons](oignon.jpg)
-
-ezazgerzqaywyrtq
-
-   !(~/oignon.jpg)
+   ![oignon](/oignon.jpeg)
+   ![Roi oignon](/oignon2.jpg)
 
