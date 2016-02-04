@@ -10,6 +10,6 @@ title = "Les oignons dominent le monde !"
    Cependant, Louis-Arthur est un monstre !
 
 
-   ![oignon](/oignon.jpg)
+   ![oignon](/oignon.jpeg)
    ![Roi oignon](/oignon2.jpg)
 
