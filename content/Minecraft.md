@@ -4,7 +4,7 @@ draft = true
 title = "Minecraft"
 +++
 
-   ![icone](/oignon.png)
+   ![icone](/icone.png)
 
 ## Présentation
 
