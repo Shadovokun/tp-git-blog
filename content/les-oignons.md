@@ -9,5 +9,6 @@ title = "Les oignons dominent le monde !"
    Cependant, Louis-Arthur Collot est un monstre !
 
 
-   ![Des oignons](/oignon.jpg)
+   ![oignon](/oignon.jpg)
+   ![Roi oignon](/oignon2.jpg)
 
