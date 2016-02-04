@@ -13,3 +13,7 @@ C'est un jeu de type "bac à sable", c'est-à-dire où le joueur est libre de fa
 
 ## Les mods de la mort
 * [ Scripcraft](http://scriptcraftjs.org/)
+
+## Créer un serveur
+
+minecraft c'est nul, autant jouer a Adibou
