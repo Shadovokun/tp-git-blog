@@ -1,4 +1,4 @@
-+++
++
 date = "2016-02-04T08:50:00+01:00"
 draft = true
 title = "Minecraft"
@@ -17,4 +17,3 @@ C'est un jeu de type "bac à sable", c'est-à-dire où le joueur est libre de fa
 
 ## Créer un serveur
 
-minecraft c'est nul, autant jouer a Adibou
