@@ -4,6 +4,8 @@ draft = true
 title = "Minecraft"
 +++
 
+Minecraft est un jeu développé par Mojang.
+
 ## Présentation
 
 Minecraft est un jeu développé par Mojang et ensuite repris par Microsoft.
