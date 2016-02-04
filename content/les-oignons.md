@@ -15,3 +15,6 @@ title = "Les oignons dominent le monde !"
 
    http://thumbs.dreamstime.com/z/oignon-pr%C3%A9sent-quelque-chose-18209846.jpg
 
+### KEMAR NOTRE MAITRE A TOUS
+
+http://m.memegen.com/ll4qt1.jpg
