@@ -7,9 +7,9 @@ title = "Les oignons dominent le monde !"
 
    Les oignons font pleurer mais ils vous aiment.
 <<<<<<< HEAD
-   Cependant, Louis-Arthur Collot est un monstre !
-=======
-   <br Cependant, Emeline Dieu est un monstre !/>
+   Cependant, Emeline Dieu est un monstre !
+
+
 >>>>>>> 6f621d9d83619e1eb0c7c377f9e2f4089eb5eda0
 
 
