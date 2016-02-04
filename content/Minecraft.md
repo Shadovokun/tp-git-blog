@@ -13,4 +13,7 @@ Minecraft est un jeu développé par Mojang et ensuite repris par Microsoft.
 ### Les mods de la mort
 * [ Scripcraft](http://scriptcraftjs.org/)
 
+#### KEMARRRRRR !!!!!
+http://m.memegen.com/j02wpb.jpg
+
 
