@@ -5,11 +5,11 @@ title = "Mes réponses au TP Git"
 +++
 # HARRY POTTER
 
-##SA NAISSANCE
-l'histoire commence.
-##SA VIE
-l'histoire se poursuit.
-##SA MORT
-L'histoire se termine.
+##SA NAISSANCE \n
+l'histoire commence. \n
+##SA VIE \n
+l'histoire se poursuit. \n
+##SA MORT   \n
+L'histoire se termine. \n
 
 #LA FIN D'HARRY POTTER
