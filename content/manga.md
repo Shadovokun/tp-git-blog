@@ -17,6 +17,6 @@ Le seinen manga (青年漫画, le manga pour jeune homme) est un type de manga d
 >>>>>>> 6adedac1d28ec8b25271fef63a74423ba38c4022
 =======
 
-#les Shôjo
+##les Shôjo
 Shôjo est un mot japonais signifiant jeune fille ou petite fille. Le shōjo manga (少女漫画) est une bande dessinée japonaise publiée dans un magazine de prépublication dont la cible éditoriale est avant tout constituée de jeunes adolescentes. 
 >>>>>>> a1134a91b3e247a9ea88457275413c54ff87628c
