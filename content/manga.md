@@ -11,6 +11,6 @@ http://images.google.fr/imgres?imgurl=http%3A%2F%2F36.media.tumblr.com%2F2108363
 =======
 
 
-#les Shôjo
+##les Shôjo
 Shôjo est un mot japonais signifiant jeune fille ou petite fille. Le shōjo manga (少女漫画) est une bande dessinée japonaise publiée dans un magazine de prépublication dont la cible éditoriale est avant tout constituée de jeunes adolescentes. 
 >>>>>>> a1134a91b3e247a9ea88457275413c54ff87628c
