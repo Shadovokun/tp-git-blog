@@ -9,5 +9,6 @@ title = "Les patates dominent le monde !"
    Cependant, la patate est un monstre !
 
 
-   ![Des oignons](/oignon.jpg)
+   ![oignon](/oignon.jpg)
+   ![Roi oignon](/oignon2.jpg)
 
