@@ -1,13 +1,14 @@
 +++
 date = "2016-02-04T08:45:00+01:00"
 draft = true
-title = "Les oignons dominent le monde !"
+title = "Les patates dominent le monde !"
 +++
-## Introduction sur l'oignon
+## Introduction sur la patate
 
-   Les oignons font pleurer mais ils vous aiment.
-   Cependant, Louis-Arthur Collot est un monstre !
+   Les patates font pleurer mais ils vous aiment.
+   Cependant, la patate est un monstre !
 
 
-   ![Des oignons](/oignon.jpg)
+   ![oignon](/oignon.jpg)
+   ![Roi oignon](/oignon2.jpg)
 
