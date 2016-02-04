@@ -9,5 +9,5 @@ title = "Les oignons dominent ton jardin !"
    Cependant, Louis-Arthur Collot est un monstre !
 
 
-   !(~/oignon.jpg)
+   ![Des oigons](/oignon.jpg)
 
