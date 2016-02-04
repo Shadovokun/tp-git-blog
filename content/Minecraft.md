@@ -5,3 +5,8 @@ title = "Minecraft"
 +++
 
 # TP Git
+## Configuration
+
+git config --global user.name "Florian Provo"
+git config --global user.email "provo.florian@gmail.com"
+git config --global http.proxy http://cache.univ-lille1.fr:3128
