@@ -6,7 +6,7 @@ title = "Les oignons dominent ton jardin !"
 ## Introduction sur l'oignon
 
    Les oignons font pleurer mais ils vous aiment.
-   Cependant, Louis-Arthur Collot est un monstre !
+   Cependant, Dieu est un monstre !
 
 
    !(~/oignon.jpg)
