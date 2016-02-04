@@ -7,3 +7,4 @@ title = "Les oignons"
 ## Configuration
 
    Les oignons font pleurer lorsque vous les coupez, donc mangez sans oignons.
+   Les oignons font pleurer.
