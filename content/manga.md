@@ -7,6 +7,6 @@ title="Les différents types de manga"
 # TP Git
 ## Configuration
 
-git config --global user.name "Janzegers Axel"
-git config --global user.email "axeljanzegers@gmail.com"
+git config --global user.name "Lemaitre Lug"
+git config --global user.email "luglemaitre@hotmail.fr"
 git config --global http.proxy http://cache.univ-lille1.fr:3128
