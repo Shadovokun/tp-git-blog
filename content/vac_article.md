@@ -1,7 +1,8 @@
 +++
 date = "AAAA-MM-DDT12:00:00+01:00"
 draft = true
-title = "Mes réponses au TP Git"
+title = "Les élections américaines"
 +++
-# TP Git
-## Configuration
+# Donald Trump et sa fameuse perruque d'or
+Donald Trump, essayerai de conquérir le continent américain armée de sa chevelure d'or , qualifié par les plus grand spécialiste de "physiquement impossible".
+
