@@ -1,10 +1,10 @@
 +++
 date = "2016-02-04T08:50:00+01:00"
 draft = true
-title = "Minecraft" ![icone](/icone.png)
+title = "Minecraft"
 +++
 
-## Présentation
+## Présentation ![icone](/icone.png)
 
 
 Minecraft est un jeu développé par Mojang et ensuite repris par Microsoft.
