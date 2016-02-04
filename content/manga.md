@@ -3,10 +3,14 @@ date = "2016-02-04T12:00:00+01:00"
 draft = true
 title="Les différents types de manga"
 +++
+<<<<<<< HEAD
 
-# TP Git
-## Configuration
+=======
+Le manga est une bande dessiné orientale qui peut se décliner en plusieurs types
+## les Hentai
+tout le monde connaît
 
-git config --global user.name "Janzegers Axel"
-git config --global user.email "axeljanzegers@gmail.com"
-git config --global http.proxy http://cache.univ-lille1.fr:3128
+## Seinen
+Manga pour jeunes adultes de sexe masculin
+
+>>>>>>> 6adedac1d28ec8b25271fef63a74423ba38c4022
