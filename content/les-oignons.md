@@ -5,7 +5,7 @@ title = "Les patates dominent le monde !"
 +++
 ## Introduction sur la patate
 
-   Les patates font pleurer mais ils vous aiment.
+   Les patates font pleurer mais elles vous aiment.
    Cependant, la patate est un monstre !
 
 
