@@ -14,4 +14,3 @@ C'est un jeu de type "bac à sable", c'est-à-dire où le joueur est libre de fa
 * [ Scripcraft](http://scriptcraftjs.org/)
 
 ## Créer un serveur
-
