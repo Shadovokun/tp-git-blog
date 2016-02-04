@@ -13,4 +13,7 @@ Le seinen manga (青年漫画, le manga pour jeune homme) est un type de manga d
 
 ## Shôjo
 Shôjo est un mot japonais signifiant jeune fille ou petite fille.
-Le shōjo manga (少女漫画) est une bande dessinée japonaise publiée dans un magazine de prépublication dont la cible éditoriale est avant tout constituée de jeunes adolescentes. 
+Le shōjo manga (少女漫画) est une bande dessinée japonaise publiée dans un magazine de prépublication dont la cible éditoriale est avant tout constituée de jeunes adolescentes.
+
+##Shônen
+En Occident, le mot shōnen (少年, qui signifie « adolescent » en japonais) estutilisé pour désigner un type de manga, le shōnen manga (少年漫画, le manga pour jeune garçon, parfois écrit shounen manga en wāpuro rōmaji), qui est un type de manga dont la cible éditoriale est avant tout constituée pour les jeunes adolescents de sexe masculin.
