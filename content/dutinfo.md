@@ -4,5 +4,5 @@ draft = true
 title = "dutinfo"
 +++
 nous faisons un cours de GIT en dutinfo de l'IUT A de lille1.
-j'aime l'informatique mais j'ai un du mal
+j'aime l'informatique mais j'ai un peu du mal
 
