@@ -2,7 +2,6 @@
 date = "2016-02-04T08:45:00+01:00"
 draft = true
 title = "Les oignons dominent le monde !"
-![Roi oignon](/oignon2.jpg)
 +++
 ## Introduction sur les oignons
 
@@ -12,4 +11,5 @@ title = "Les oignons dominent le monde !"
 
 
    ![oignon](/oignon.jpeg)
+   ![Roi oignon](/oignon2.jpg)
 
