@@ -6,7 +6,7 @@ title = "Les oignons dominent le monde !"
 ## Introduction sur l'oignon
 
    Les oignons font pleurer mais ils vous aiment.
-   Cependant, Louis-Arthur Collot est un monstre !
+   Cependant, Emeline Dieu est un monstre !
 
 
    ![Les oignons](oignon.jpg)
