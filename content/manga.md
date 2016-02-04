@@ -4,5 +4,6 @@ draft = true
 title="Les différents types de manga"
 +++
 Le manga est une bande dessiné orientale qui peut se décliner en plusieurs types
-# TP Git
-## Configuration
+# les Hentai
+tout le monde connaît
+
